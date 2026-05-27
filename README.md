@@ -43,4 +43,4 @@ En las próximas versiones del proyecto, me enfocaré en las siguientes optimiza
 
 ## Enlace al proyecto
 
-GitHub Pages: https://diegogongar.github.io/web_project_portfolio_es/
+GitHub Pages: https://diegogongar2-dev.github.io/web_project_portfolio_es/
